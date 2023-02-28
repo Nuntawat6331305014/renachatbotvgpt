@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "renachatbotvgpt",
+    "slug": "renachatbotvgpt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "renachatbotvgpt"
+}
